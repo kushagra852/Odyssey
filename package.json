@@ -1,0 +1,26 @@
+{
+  "name": "codeial",
+  "version": "1.0.0",
+  "description": "My Social Media Web Aapplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social"
+  ],
+  "author": "KushagraSingh",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.3",
+    "mongo-connect": "^0.0.6",
+    "mongoose": "^6.9.2",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
